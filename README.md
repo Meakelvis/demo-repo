@@ -8,4 +8,5 @@ What's up my people.....!!!
 
 ## Local development
 
-Obviously open index.html in browser of choice.
+1. Obviously open index.html in browser of choice.
+2. Have fun
